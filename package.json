@@ -1,0 +1,22 @@
+{
+  "name": "npm-start",
+  "version": "1.0.0",
+  "description": "Npm start example",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jonadb97/npm-start.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Jonathan Blazquez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jonadb97/npm-start/issues"
+  },
+  "homepage": "https://github.com/Jonadb97/npm-start#readme"
+}
